@@ -93,7 +93,7 @@ body {
     animation-name: lebel;
     animation-duration: 10s;
     animation-iteration-count: 1;
-    animation-delay: 3.5s;
+    animation-delay: 3.4s;
     animation-fill-mode: forwards;
 }
 @keyframes lebel {
